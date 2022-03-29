@@ -15,5 +15,4 @@ public class Product {
     private int id;
     private float coast;
     private List<Product> children;
-
 }
